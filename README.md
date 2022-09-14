@@ -17,13 +17,15 @@ Also, we make use of a dimentionality reduction method named PCA in order to kee
 
 Moreover, we upsamle the data beglonging to females to equilize the number of samples in the both male and female data.
 
-## Unsupervised learning
+## Unsupervised Learning
 
 As for the unsupervised learning, we make use of Kmeans++ for the clustering purpose.
 Also we tried to find a meaningful reasoning for data in each cluster by altering the number of clustres.
 A case in point is for 2 clusters which may probably have a similar disturbution per cluster as the data belonging to females and males.
 
+## Supervised Learning
 
+As for the supervised learning, we employ renowned classifiers such as KNN, SVM, Naive Bayes, Decision Tree, Random forest.
 
 
 
