@@ -19,6 +19,13 @@ Moreover, we upsamle the data beglonging to females to equilize the number of sa
 
 ## Unsupervised learning
 
+As for the unsupervised learning, we make use of Kmeans++ for the clustering purpose.
+Also we tried to find a meaningful reasoning for data in each cluster by altering the number of clustres.
+A case in point is for 2 clusters which may probably have a similar disturbution per cluster as the data belonging to females and males.
+
+
+
+
 
 
 
