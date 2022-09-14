@@ -13,4 +13,14 @@ We took three approaches when dealing with missing values.
   * Utilizing the combination of the removing and replacing.
   
   
+Also, we make use of a dimentionality reduction method named PCA in order to keep more abstarct dimentions of data.
+
+Moreover, we upsamle the data beglonging to females to equilize the number of samples in the both male and female data.
+
+## Unsupervised learning
+
+
+
+
+
 
